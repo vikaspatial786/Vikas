@@ -1,2 +1,2 @@
-FROM vikaspatial786/Vikas
+FROM FROM httpd:2.4
 ADD ./var/www/html
